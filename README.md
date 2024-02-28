@@ -31,7 +31,7 @@ View deployed result on [my github](https://madrakas.github.io/bit_08_03_hw_reac
 6. [JavaScript Kanban website](https://github.com/madrakas/bit_06_js-kanban)
     1. [Practice No.1: Random color app](https://github.com/madrakas/bit_06_01_homework_random_color_app)
     2. [Practice No.2: Simple JS game](https://github.com/madrakas/bit_06_02_homework_simple-game/)
-7. [React intro. Initialisation](https://github.com/madrakas/bit_07_react_intro)
+7. [React intro](https://github.com/madrakas/bit_07_react_intro)
     1. [Practice No.1. React page design](https://github.com/madrakas/bit_07_01_homework_simple-react-page-design)
     2. [Practice No.2. React calculator](https://github.com/madrakas/bit_07_02_homework_calculator)
 8. [React + Bootstrap website](https://github.com/madrakas/bit_08_bootstrap-site/)
