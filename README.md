@@ -36,14 +36,14 @@ View deployed result on [my github](https://madrakas.github.io/bit_08_03_hw_reac
     2. [Practice No.2. React calculator](https://github.com/madrakas/bit_07_02_homework_calculator)
 8. [React + Bootstrap website](https://github.com/madrakas/bit_08_bootstrap-site/)
     1. [Practice No.1: React + bootstrap Investment calculator](https://github.com/madrakas/bit_08_01_hw_react_bootstrap_invest_calc/)
-    2. Practice No.2: React countries API (current repository)
-    3. 
+    2. [Practice No.2: React countries API](https://github.com/madrakas/bit_08_02_hw_react_countries)
+    3. Practice No.3: React use context app (current repository)
 
 ## 🎯 Project features/goals
 
 *   Learn:
     *   React 
-    *   Use data from API
+    *   Use context
     
 ## 🧰 Getting Started
 
