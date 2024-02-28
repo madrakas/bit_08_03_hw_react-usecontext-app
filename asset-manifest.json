@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bit_13_react-usecontext-app/static/css/main.494d21b3.css",
-    "main.js": "/bit_13_react-usecontext-app/static/js/main.50898d5d.js",
-    "index.html": "/bit_13_react-usecontext-app/index.html",
-    "main.494d21b3.css.map": "/bit_13_react-usecontext-app/static/css/main.494d21b3.css.map",
-    "main.50898d5d.js.map": "/bit_13_react-usecontext-app/static/js/main.50898d5d.js.map"
+    "main.css": "/bit_08_03_hw_react-usecontext-app/static/css/main.a13b9e21.css",
+    "main.js": "/bit_08_03_hw_react-usecontext-app/static/js/main.ce0e8a8e.js",
+    "index.html": "/bit_08_03_hw_react-usecontext-app/index.html",
+    "main.a13b9e21.css.map": "/bit_08_03_hw_react-usecontext-app/static/css/main.a13b9e21.css.map",
+    "main.ce0e8a8e.js.map": "/bit_08_03_hw_react-usecontext-app/static/js/main.ce0e8a8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.494d21b3.css",
-    "static/js/main.50898d5d.js"
+    "static/css/main.a13b9e21.css",
+    "static/js/main.ce0e8a8e.js"
   ]
 }
