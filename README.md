@@ -1,6 +1,3 @@
-https://madrakas.github.io/bit_08_03_hw_react-usecontext-app/
-
-
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/%20Coffe-Free-yellow)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
